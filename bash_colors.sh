@@ -175,3 +175,4 @@ function clr_dump
 '
 }
 
+clr_greenb "Цветовая схема"
